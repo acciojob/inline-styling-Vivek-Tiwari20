@@ -1,11 +1,22 @@
 /*  your css code here. If applicable */
 
-img{
+/* img{
 	height:200px;
 	width:200px;
 }
 #container{
 	display:flex;
 	text-align:center;
+	gap:8px;
 	
+	
+} */
+body{
+background-color:yellow;
+font-weight: 400;
+font-style: italic;
+color: indigo;
+text-align: center;
+text-transform: capitalize
+
 }
