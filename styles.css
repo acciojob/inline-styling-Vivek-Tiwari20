@@ -1,12 +1,11 @@
 /*  your css code here. If applicable */
-#f1{
+
+img{
 	height:200px;
-	width:300px;
-/* 	background-color:yellow; */
-	margin:2px;
+	width:200px;
 }
-#f2{
-	height:300px;
-	width:300px;
+#container{
 	display:flex;
+	text-align:center;
+	
 }
